@@ -1,5 +1,14 @@
-# 💫 About Me:
-<br>- 🔭 I’m currently working on **Nethawk - Network Utility Dashboard**<br><br>- 🌱 I’m currently learning **Pytorch, OpenCV , CI/CD pipelines , Full stack devops**<br><br>
+## 💫 About Me
+
+- 📫 Connect with me: **aryaniiitian06@gmail.com**
+
+- 🔭 Currently building:  
+  **Nethawk - Network Utility Dashboard**  
+  👉 [Check it out here](https://nethawk-dsh.vercel.app/)
+
+- 🌱 Currently learning:  
+  **PyTorch**, **OpenCV**, **CI/CD Pipelines**, **Full Stack DevOps**
+
 
 
 ## 🌐 Socials:
