@@ -19,7 +19,6 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-coder06&theme=tokyonight&hide_border=true&count_private=true)<br/>
-#![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-coder06&theme=tokyonight&hide_border=true&count_private=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-coder06&theme=tokyonight&hide_border=true&layout=compact)
 
 
