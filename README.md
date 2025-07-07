@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&center=true&vCenter=true&width=435&lines=Myself+Aryan+Saini;Software+Engineer+%7C+DevOps+%7C+Full+Stack;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&center=true&vCenter=true&width=435&lines=Myself!+Aryan+Saini;ML+Enthu+%7C+DevOps+%7C+Full+Stack;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
 
 ## 💫 About Me
